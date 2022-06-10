@@ -1,6 +1,6 @@
 ### Hi I am Vova Pankiv! 👋
 
-- 🔭 I’m currently working on web page for local hospital.
+- 🔭 I’m currently working on web page for the local hospital.
 - 🌱 I’m currently learning relational DB.
 - 🤔 I’m looking for help with deploying Angular universal to heroku.
 - 💬 Ask me about anything.
