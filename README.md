@@ -28,7 +28,7 @@
 ---
 My direction of work: <br /> <br />
   [![Linkedin Badge](https://img.shields.io/badge/Front-end-brightgreen?style=for-the-badge&logo=googlechrome)](https://github.com/Frontend-direction) &nbsp;
-  [![Linkedin Badge](https://img.shields.io/badge/Back-end-orange?style=for-the-badge&logo=nodedotjs)](https://github.com/Back-direction) &nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/Back-end-orange?style=for-the-badge&logo=nodedotjs)](https://github.com/Backend-direction) &nbsp;
   [![Linkedin Badge](https://img.shields.io/badge/CI-CD-blue?style=for-the-badge&logo=azurepipelines)](https://github.com/CI-CD-direction) &nbsp;
 
 
