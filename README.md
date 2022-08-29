@@ -2,9 +2,8 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-- 🔭 I’m currently working on web page for the local hospital.
+- 🔭 I’m currently working on an app to track my finance.
 - 🌱 I’m currently learning relational DB.
-- 🤔 I’m looking for help with deploying Angular universal to heroku.
 - 💬 Ask me about anything.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-pankiv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-pankiv-3905bb167)
 - ⚡ Fun fact: Of course, you’re not stupid. You just have bad luck when you think
